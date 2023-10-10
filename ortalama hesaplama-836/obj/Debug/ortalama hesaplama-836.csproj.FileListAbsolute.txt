@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\bin\Debug\ortalama hesaplama-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\bin\Debug\ortalama hesaplama-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\bin\Debug\ortalama hesaplama-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama hesaplama-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama hesaplama-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama_hesaplama_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama_hesaplama_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama hesaplama-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama hesaplama-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama hesaplama-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\ortalama hesaplama-836\ortalama hesaplama-836\obj\Debug\ortalama hesaplama-836.pdb
